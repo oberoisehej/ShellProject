@@ -1,9 +1,12 @@
 # ShellProject
 
-This was a project CS 252 - Systems Programming
+#### Project CS 252: Systems Programming
 
-The files cannot publicly be posted due to course rules
+#### Description
+##### The project implements a working shell that completely mimics the performance of Linux's Bash Shell
+##### _Note: code cannot be shared due to academic policy, but willing to discuss implementation details
 
-The project was to make a working shell that mimics performance of Linux Bash Shell.
+#### Langauges
+##### C
+##### C++
 
-This project was written using C, C++, Lex and Yacc.
